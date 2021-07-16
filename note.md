@@ -29,4 +29,8 @@ soap（simple object access protocol，即简单对象访问协议）是交换�
 - [How to Perform SOAP Requests With Node.js](https://betterprogramming.pub/how-to-perform-soap-requests-with-node-js-4a9627070eb6)
 
 ## 图片编码格式
-png jpeg heic webp
+**参考资料**
+- [HEIF/heic图片文件解析](https://zhuanlan.zhihu.com/p/35847861)
+- [Heic 文件格式解析（原创）](https://www.freebuf.com/column/164833.html)
+- [What is EXIF Data and How You Can Remove it From Your Photos](https://photographylife.com/what-is-exif-data)
+- [https://docs.fileformat.com](https://docs.fileformat.com/image/exif/)这个网站关于各种文件的说明特全
